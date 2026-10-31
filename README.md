@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### NAME: RITESH M KAMATH
+### REG NO: 212225230228
+### DATE: 31 October 2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,6 +55,9 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+<img width="957" height="956" alt="image" src="https://github.com/user-attachments/assets/51b8abe7-41d9-4d95-b7df-50cb47c75179" />
+
+<img width="420" height="310" alt="image" src="https://github.com/user-attachments/assets/4877f215-6336-4d8f-a4cb-565a710e8ba5" />
 
 
 
@@ -75,6 +80,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="957" height="1017" alt="image" src="https://github.com/user-attachments/assets/661ffd0c-5888-44e2-855a-bdc77b88bab5" />
+
+<img width="500" height="311" alt="image" src="https://github.com/user-attachments/assets/876202b8-48ba-49d3-9e43-2d56f4a9a0eb" />
+
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +102,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="797" height="705" alt="image" src="https://github.com/user-attachments/assets/10ab861a-d3ae-4d5c-b487-093e8df6bc4b" />
+
+<img width="762" height="297" alt="image" src="https://github.com/user-attachments/assets/d5f1aa88-b3ff-47a0-b0e0-ebf2da93e91f" />
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +123,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1086" height="311" alt="image" src="https://github.com/user-attachments/assets/25beb082-4ae0-4e8e-9ba4-0bf6d1eef097" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
